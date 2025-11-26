@@ -1,0 +1,5 @@
+- Purpose: Medical data analysis project
+- Main technologies: Python
+- Key files: README.md, pyproject.toml, Makefile
+- Project structure: src/, tests/, docs/, scripts/, examples/
+- Entry points: src/medical_data/__init__.py, src/medical_data/analyzer.py, src/medical_data/cli.py, src/medical_data/data_loader.py, src/medical_data/visualizer.py
