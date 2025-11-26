@@ -1,0 +1,9 @@
+Directories by importance:
+- Root directory (ai-doctor/medical-data/) contains 4 Python files and 2 Markdown files, totaling 6 files. Main focus: 2 Markdown files (dataset_access.md, README.md) and 4 Python files (medical_data_analyzer.py, medical_data_loader.py, medical_qa_bot.py, visualizer.py).
+
+Key Files (by estimated importance):
+1. ai-doctor/medical-data/medical_data_analyzer.py - Likely a core module for the project
+2. ai-doctor/medical-data/README.md - Project documentation/overview
+3. ai-doctor/medical-data/medical_data_loader.py - Likely a core module for the project
+4. ai-doctor/medical-data/medical_qa_bot.py - Likely a core module for the project
+5. ai-doctor/medical-data/visualizer.py - Likely a core module for the project
